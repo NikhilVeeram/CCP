@@ -1,2 +1,3 @@
 # CCP
-Clinical Correlation Project
+Clinical Correlation Project for VIBS 243
+Group: Nikhil Veeramachaneni, 
