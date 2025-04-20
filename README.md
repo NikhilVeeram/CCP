@@ -1,3 +1,3 @@
 # CCP
 Clinical Correlation Project for VIBS 243
-Group: Nikhil Veeramachaneni, Arthi Rajkumar, Rebekah York
+Group 2: Nikhil Veeramachaneni, Arthi Rajkumar, Rebekah York
